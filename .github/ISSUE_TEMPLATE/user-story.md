@@ -1,11 +1,19 @@
+---
+name: User Story
+about: Create a user story
+title: ''
+labels: ''
+assignees: ''
+---
+
 ### As a
-[who]
+[role]
 
 ### I need
-[what]
+[functionality]
 
 ### So that
-[why]
+[business value]
 
 ### Details and Assumptions
 * [document what you know]
